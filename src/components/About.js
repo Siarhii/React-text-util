@@ -38,7 +38,7 @@ export default function About() {
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div className="accordion-body">
-        <strong>This is my first react based website. </strong>Although its just a replica of a project i copied from <strong><a href="https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&si=kz1-SmxDO9_7KG3m">Code-With-Harry</a></strong> , it was nice building a fully functional (far fetched) website for the first time.This is a basic text utility website that can capitalise sentences....bruh and some other things. There are curretly tons of issues present in the website,i will slowly try to fix them one by one.
+        <strong>This is my first react based website. it was nice building a website for the first time.This is a basic text utility website that can capitalise sentences.... and do some other things. There are curretly tons of issues present in the website,i will slowly try to fix them one by one.
       </div>
     </div>
   </div>
